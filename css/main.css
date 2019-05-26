@@ -1843,7 +1843,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c2f4cd;
+  background: #ff200e;
 }
 .links-of-blogroll {
   margin-top: 10px;
@@ -2842,4 +2842,10 @@ ul.breadcrumb li+li:last-child {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+* {
+  cursor: url("https://s2.ax1x.com/2019/05/26/VELjvF.gif"), auto !important;
+}
+:active {
+  cursor: url("https://s2.ax1x.com/2019/05/26/VELjvF.gif"), auto !important;
 }
